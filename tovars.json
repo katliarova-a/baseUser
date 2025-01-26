@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Смартфон A1",
+        "cost": 299.99,
+        "articul": "A1001",
+        "description": "Современный смартфон с большим экраном и мощным процессором.",
+        "raiting": 4.5,
+        "image": "https://example.com/images/smartphone_a1.jpg"
+    },
+    {
+        "name": "Ноутбук B2",
+        "cost": 799.99,
+        "articul": "B2002",
+        "description": "Ультратонкий ноутбук с длительным временем автономной работы.",
+        "raiting": 4.7,
+        "image": "https://example.com/images/laptop_b2.jpg"
+    },
+    {
+        "name": "Планшет C3",
+        "cost": 399.99,
+        "articul": "C3003",
+        "description": "Компактный планшет с высоким разрешением экрана.",
+        "raiting": 4.3,
+        "image": "https://example.com/images/tablet_c3.jpg"
+    },
+    {
+        "name": "Наушники D4",
+        "cost": 99.99,
+        "articul": "D4004",
+        "description": "Беспроводные наушники с шумоподавлением.",
+        "raiting": 4.6,
+        "image": "https://example.com/images/headphones_d4.jpg"
+    },
+    {
+        "name": "Смарт-часы E5",
+        "cost": 199.99,
+        "articul": "E5005",
+        "description": "Смарт-часы с функцией мониторинга здоровья.",
+        "raiting": 4.4,
+        "image": "https://example.com/images/smartwatch_e5.jpg"
+    },
+    {
+        "name": "Камера F6",
+        "cost": 499.99,
+        "articul": "F6006",
+        "description": "Профессиональная камера с высоким разрешением.",
+        "raiting": 4.8,
+        "image": "https://example.com/images/camera_f6.jpg"
+    },
+    {
+        "name": "Игровая консоль G7",
+        "cost": 299.99,
+        "articul": "G7007",
+        "description": "Игровая консоль нового поколения с поддержкой 4K.",
+        "raiting": 4.7,
+        "image": "https://example.com/images/console_g7.jpg"
+    },
+    {
+        "name": "Телевизор H8",
+        "cost": 999.99,
+        "articul": "H8008",
+        "description": "Большой телевизор с поддержкой Smart TV.",
+        "raiting": 4.5,
+        "image": "https://example.com/images/tv_h8.jpg"
+    },
+    {
+        "name": "Микроволновая печь I9",
+        "cost": 149.99,
+        "articul": "I9009",
+        "description": "Микроволновая печь с функцией гриля.",
+        "raiting": 4.2,
+        "image": "https://example.com/images/microwave_i9.jpg"
+    },
+    {
+        "name": "Холодильник J10",
+        "cost": 699.99,
+        "articul": "J1010",
+        "description": "Энергоэффективный холодильник с большим объемом.",
+        "raiting": 4.6,
+        "image": "https://example.com/images/fridge_j10.jpg"
+    },
+    {
+        "name": "Пылесос K11",
+        "cost": 199.99,
+        "articul": "K1111",
+        "description": "Мощный пылесос с функцией влажной уборки.",
+        "raiting": 4.4,
+        "image": "https://example.com/images/vacuum_k11.jpg"
+    },
+    {
+        "name": "Стиральная машина L12",
+        "cost": 499.99,
+        "articul": "L1212",
+        "description": "Стиральная машина с функцией сушки.",
+        "raiting": 4.7,
+        "image": "https://example.com/images/washing_machine_l12.jpg"
+    },
+    {
+        "name": "Кофемашина M13",
+        "cost": 299.99,
+        "articul": "M1313",
+        "description": "Кофемашина с функцией приготовления капучино.",
+        "raiting": 4.5,
+        "image": "https://example.com/images/coffee_machine_m13.jpg"
+    },
+    {
+        "name": "Электрочайник N14",
+        "cost": 49.99,
+        "articul": "N1414",
+        "description": "Электрочайник с функцией поддержания температуры.",
+        "raiting": 4.3,
+        "image": "https://example.com/images/kettle_n14.jpg"
+    },
+    {
+        "name": "Утюг O15",
+        "cost": 79.99,
+        "articul": "O1515",
+        "description": "Утюг с функцией парового удара.",
+        "raiting": 4.4,
+        "image": "https://example.com/images/iron_o15.jpg"
+    }
+]
