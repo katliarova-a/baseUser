@@ -5,7 +5,7 @@
         "articul": "A1001",
         "description": "Современный смартфон с большим экраном и мощным процессором.",
         "raiting": 4.5,
-        "image": "https://example.com/images/smartphone_a1.jpg"
+        "image": "img/im1.webp"
     },
     {
         "name": "Ноутбук B2",
@@ -13,7 +13,7 @@
         "articul": "B2002",
         "description": "Ультратонкий ноутбук с длительным временем автономной работы.",
         "raiting": 4.7,
-        "image": "https://example.com/images/laptop_b2.jpg"
+        "image": "img/im1.webp"
     },
     {
         "name": "Планшет C3",
