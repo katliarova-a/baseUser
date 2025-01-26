@@ -12,7 +12,7 @@
         "cost": 799.99,
         "articul": "B2002",
         "description": "Ультратонкий ноутбук с длительным временем автономной работы.",
-        "raiting": 4.7,
+        "raiting": 3.7,
         "image": "img/im2.webp"
     },
     {
@@ -36,7 +36,7 @@
         "cost": 199.99,
         "articul": "E5005",
         "description": "Смарт-часы с функцией мониторинга здоровья.",
-        "raiting": 4.4,
+        "raiting": 2.4,
         "image": "img/im5.webp"
     },
     {
@@ -76,7 +76,7 @@
         "cost": 1699.99,
         "articul": "J1010",
         "description": "Энергоэффективный холодильник с большим объемом.",
-        "raiting": 4.6,
+        "raiting": 3.6,
         "image": "img/im10.webp"
     },
     {
@@ -108,7 +108,7 @@
         "cost": 99.99,
         "articul": "N1414",
         "description": "Электрочайник с функцией поддержания температуры.",
-        "raiting": 4.3,
+        "raiting": 2.3,
         "image": "img/im14.webp"
     },
     {
